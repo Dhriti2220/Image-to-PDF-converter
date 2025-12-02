@@ -24,3 +24,6 @@ Tkinter is usually included with Python. Make sure Python >=3.8 is installed.
 Usage
 Run the application:
 python image_to_pdf_converter.py
+
+License
+This project is licensed under the MIT License.
